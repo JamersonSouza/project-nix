@@ -1,12 +1,3 @@
-#GitCurs
+#ProjetoNix
 
-Este é um projeto de git, apartir de um repositorio teste para aprender como o git funciona
-o
-
-#estou aprendendo aos poucos como o git funciona
-quer aprender? vai la na society
-
-[socity.ga]
-
-
-Gostando muito de brincar com o git. Falta só um caneca de café
+	A ideia do nix surgiu aparti da necessidade pessoal de estudos, não apenas individual mas também mútuo entre amigos, então, agora chegou a hora de por em prática todos os conhecimentos adquiros e implementalos ao longo do ano de 2019
