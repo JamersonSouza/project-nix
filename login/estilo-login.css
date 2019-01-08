@@ -1,0 +1,72 @@
+/* == RESETING == */
+margin{0; padding: 0; font-size: 100%; box-sizing: border-box; font-family: 'Lato', sans-serif;}
+ul, nav, li{list-style: none;}
+a{list-style: none; text-decoration: none; cursor: pointer; opacity: 0.9}
+a:hover{opacity: 1;}
+
+/* == FINISH RESETING == */
+#form-login{
+    width: 50%;
+    margin: 12% auto;
+    text-align: center;
+    position: relative;
+}
+#form-login h6{
+    font-family: 'Lato';
+    color: #006500;
+    font-size: 1.5em;
+    text-align: center;
+    margin-bottom: 4%;}
+
+
+#form-login fieldset{
+    background: #fff;
+    border: 0 none;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    box-shadow: 0 0 15 1px rgba(0,0,0,0.4);
+    padding: 20px 30px;
+    box-sizing:  border-box;,
+    width: 80%;
+    margin: 0 10%;
+    position: absolute;}
+
+#form-login input{
+    padding: 10px;
+    border: 1px solid #006500;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    outline: none;
+    box-sizing: border-box;
+    width: 100%;
+    font: 14px "Trebuchet MS", tahoma, arial;
+    color: black;
+    margin-bottom: 10px;
+
+}
+
+/* RESPONSÁVEL PELO CONFIRMAR */
+#form-login .acao{
+    width: 80%;
+    background-color: rgba(0,117,0,0.8);
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 12px 0;
+    margin-top: 3%;
+    border: none;
+    cursor: pointer;
+}
+#form-login .aminezia{
+    width: 50%;
+    color: #006500;
+    background: #fff;
+    border: none;
+        cursor: pointer;
+}
+
+/* RESPONSÁVEL PELO TITULO ACIMA DO LOGIN */
+
+#iron{background-image: url('../_imagens/hero.jpg'); height: 100vh; background-size: cover;}
